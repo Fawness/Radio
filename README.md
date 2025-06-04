@@ -24,7 +24,7 @@ Radio is a modern web app for synchronized YouTube video watching with friends. 
 
 ### 1. Clone the repository
 ```
-git clone <your-repo-url>
+git clone https://github.com/Fawness/radio
 cd Radio
 ```
 
