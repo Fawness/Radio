@@ -1,0 +1,27 @@
+{
+  "name": "radio",
+  "version": "1.0.0",
+  "description": "A browser app that allows users to host youtube sessions and queue up videos.  Users can then like or dislike a song to encourage it to play more frequently",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fawness/Radio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Fawness/Radio/issues"
+  },
+  "homepage": "https://github.com/Fawness/Radio#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1",
+    "uuid": "^11.1.0"
+  }
+}
